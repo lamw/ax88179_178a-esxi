@@ -38,7 +38,7 @@ Only the following USB Network Adapters have been verified with this driver. Oth
 
 * [Original ASIX AX88179 Linux kernel 4.x/3.x/2.6.x Driver](http://www.asix.com.tw/download.php?sub=driverdetail&PItemID=131)
 
-* Modified [ax88179.c](ax88179.c) & [ax88179.h](ax88179.h) files (Contribution from Songtao Zheng of VMware)
+* Modified [ax88179_178a.c](ax88179_178a.c) & [ax88179_178a.h](ax88179_178a.h) files (Contribution from Songtao Zheng of VMware)
 
 * ESXi 6.0 Update 2 OSS Download  - [https://my.vmware.com/web/vmware/details?downloadGroup=ESXI60U2_OSS&productId=491](https://my.vmware.com/web/vmware/details?downloadGroup=ESXI60U2_OSS&productId=491)
 
